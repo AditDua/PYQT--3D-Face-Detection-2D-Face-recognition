@@ -8,4 +8,5 @@ Python 3.8
 PyQt5
 Tflite-runtime
 
+Before running create a folder named- "Images"
 To run- main.py
